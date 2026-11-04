@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.SplashScreenApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">@color/splash_blue</item>
+        <item name="android:navigationBarColor">@color/splash_blue</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

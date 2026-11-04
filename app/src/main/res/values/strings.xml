@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Splash App</string>
+    <string name="app_logo_description">Application logo</string>
+    <string name="tagline">A simple Android starter app</string>
+    <string name="welcome_title">Welcome!</string>
+    <string name="welcome_message">You have successfully reached the main activity.</string>
+</resources>
